@@ -1,4 +1,4 @@
-## Сайт-визитка с использованием GSAP анимации
+## Lending с использованием GSAP анимации
 
 :grey_exclamation: GSAP (GreenSock Animation Platform) — это библиотека JavaScript для создания анимации веб-страниц. 
 
