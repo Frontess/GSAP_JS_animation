@@ -1,4 +1,8 @@
-## Lending с использованием GSAP анимации
+### Lending с использованием GSAP анимации    
+
+****
+<img width="1425" alt="Снимок экрана 2024-05-03 в 14 43 55" src="https://github.com/Frontess/GSAP_JS_animation/assets/127450758/c7211d75-c79a-4e91-8fec-f5a048b2a1aa">
+
 
 :grey_exclamation: GSAP (GreenSock Animation Platform) — это библиотека JavaScript для создания анимации веб-страниц. 
 
